@@ -130,8 +130,4 @@ Rodrigo Souza Silva
 Desenvolvedor de Software
 Progress 4GL / OpenEdge ABL
 
-LinkedIn:
-https://www.linkedin.com/in/rodrigo-silva-developed/
 
-GitHub:
-https://github.com/Roodriigooo
